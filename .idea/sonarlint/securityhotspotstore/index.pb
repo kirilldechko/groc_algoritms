@@ -9,8 +9,6 @@ S
 Q.idea/sonarlint/securityhotspotstore/f/e/fe69f8ae71553e6cd7b6e2c2302338459d32e755,4\1\414182af2e356032c82992f2a562728530f3c12b
 ^
 ..idea/inspectionProfiles/profiles_settings.xml,1\e\1e9075f5bf079c01ef2c910709e91a497d262080
-4
-1.py,c\2\c219a089181df5cecb20ccda79101fe5fd791a21
 Å
 Q.idea/sonarlint/securityhotspotstore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0,b\b\bbf202272a96de5cd6b6828ffdc55fb3ce45289c
 w
@@ -31,3 +29,5 @@ w
 G.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0,f\0\f0e0f9cec86fe4b939ae22be5264c758801eb28f
 Å
 Q.idea/sonarlint/securityhotspotstore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e,9\0\909762385fc6eb20f922a91c6865741308b57f2c
+M
+my_dirictory/binary_search.py,2\9\29791e5c63e2aec6f127dec1ff48bbb4f36cbf18
