@@ -6,7 +6,7 @@ def binary_search(my_list, item):
         answer = my_list[mid]  # ответ равен значению под индексом равным mid
         if mid == item:  # если mid == item
             return answer  # выводить ответ == answer
-        if mid > item:  #  если середина списка > чем item
+        if mid > item:  # если середина списка > чем item
             height_my_list = mid - 1  # конец списка равен середина списка - 1
         else:
             low_my_list = mid + 1  # если середина списка < чем item то начало списка равено середина списка + 1
